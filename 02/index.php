@@ -33,10 +33,10 @@
         IF ($AVG<=84&&$AVG>=80){
             $GPA=2.0;
         }
-        IF ($AVG<=75&&$AVG>=79){
+        IF ($AVG<=79&&$AVG>=75){
             $GPA=1.5;
         }
-        IF ($AVG<=70&&$AVG>=74){
+        IF ($AVG<=74&&$AVG>=70){
             $GPA=1.0;
         }
         IF ($AVG<70){
