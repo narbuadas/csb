@@ -93,6 +93,8 @@
                 . "Your 4th Subject Grade is " . $FGE4 . ". <BR/>"
                 . "Your 5th Subject Grade is " . $FGE5 . ". <BR/>"
                 . "Your 6th Subject Grade is " . $FGE6 . ". <BR/>"
+                . "Calculation: (" . $FGE1 . " + " . $FGE2 . " + " . $FGE3 . " + " 
+                . $FGE4 . " + " . $FGE5 . " + " . $FGE6 . ") / 6 = " . $AVG . ". <BR/>"
                 . "Your GPA is " . $GPA . ".";
             }
             ?>
